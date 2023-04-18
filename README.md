@@ -1,6 +1,24 @@
-## Bem-vindo(a) ao meu perfil!
+<div>
+<img align="center" alt="FundoRosa" height="10" width="1200"  src="https://user-images.githubusercontent.com/124924429/232637547-b6309a16-0f33-45f0-a01b-943c25fd202f.png" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F41EFD&center=true&vCenter=true&width=1000&lines=Bem-vindo%2C+Meu+nome+é+Iza+Ferreira!;Eu+tenho+16+anos;)](https://github.com/endrewss)
+#
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F41EFD&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Izabella+Ferreira!;E+atualmente+estou+cursando+desenvolvimento+de+sistemas!)](https://github.com/endrewss)
+
+<img align="right" alt="Avatar" height="180" width="180"  src="https://github.com/izabellaferreira/izabellaferreira/blob/main/Readme/Avatar.png?raw=true" />
+
+### Sobre mim:
+
+#### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
+
+#### 📃 -  Minha especialidade é na área de análise de projeto de sistemas.
+
+#### ⌨️ - Estou mergulhando nos estudos da linguagem de programação Php.
+
+#
+
+### 🌟 Tecnologias:
 
  <table align="center" height="260px">
     <tr>
@@ -89,3 +107,23 @@
     </tr>
    
   </table>
+  
+  #
+  
+  ### 🖥 Atividades:
+  
+ <div align="center">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellaferreira&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellaferreira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  
+ #
+ 
+ <div>
+<img align="center" alt="FundoRosa" height="10" width="1200"  src="https://user-images.githubusercontent.com/124924429/232637547-b6309a16-0f33-45f0-a01b-943c25fd202f.png" />
+</div>
+
+ 
+ 
+
